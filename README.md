@@ -9,5 +9,5 @@ The labelTopics() and findThoughts() functions are for each topic to determine t
 
 The estimateEffect() function is used in combination with plot() to plot the effects of year and whether the question was asked during an election year on topic prevalance. Using the method difference represents the difference between topics based on whether the questions were asked during election years or not and the method continuous represents the prevalance of an individual topic over the years. 
 
-#Substantive Findings 
+# Substantive Findings 
 Based on the STM that uses the default max.em.its, the labelTopics(), and findThoughts() functions, I labeled ten different topics. I decided to use ten topics based on how the STM organized documents. Topic 8 seemed to be directly related to politics or have a poltical connotation. Based on the plot using the aforementioned method "difference", questions from topic 8 were more likely to occur during election years than non election years. 
