@@ -1,5 +1,5 @@
 # Jeopardy-Project
-This repository includes the code, a zip file containing the .csv file of the data necessary, and a project summary.
+This repository includes the R code in file JeopMain, a zip file containing the .csv file of the data necessary, and a project summary.
 The project uses data from a csv file with 216,930 Jeopardy! questions ranging from 1984 to 2012 which can be found at this link: https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions 
 
 The questions being addressed are: how do election years affect Jeopardy! questions? and do political Jeopardy! question increase during election years? 
